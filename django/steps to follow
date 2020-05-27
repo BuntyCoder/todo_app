@@ -1,0 +1,11 @@
+after editing models go to cmd :
+
+ python3 manage.py make migrations
+
+python3 manage.py migrate
+
+check for the migrations created 0001_initial.py
+
+
+CONTINUE FROM 20.51 MINS
+
